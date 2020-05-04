@@ -1,0 +1,11 @@
+Security: The degree of protection against danger, damage, loss, and criminal activity
+Confidentiality: Ensuring that data is not disclosed to unintended persons.
+Integrity: Ensuring that data is not modified or tampered with.
+Availability: Ensuring that a system is up so that data is available when needed.
+Non-Repudiation: Providing the validation of a message's origin.
+Asset: Something that has value to an individual or an organization.
+Threat: Anything that has the potential to cause the loss of an asset.
+Threat Agent: The person or entity that carries out a threat.
+Vulnerability: An opening or weakness in the system.
+Exploit: A procedure, a piece of software, or a sequence of commands that takes advantage of a 
+         vulnerability to actually carry out an attack.
