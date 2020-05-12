@@ -9,3 +9,24 @@ Threat Agent: The person or entity that carries out a threat.
 Vulnerability: An opening or weakness in the system.
 Exploit: A procedure, a piece of software, or a sequence of commands that takes advantage of a 
          vulnerability to actually carry out an attack.
+Targeted Attack: A type of threat in which threat actors actively pursue and compromise a target entity's infrastructure while 
+         maintaining anonymity.
+Opportunistic attack: An attack where the threat actor is almost always trying to make money as fast as possible and with 
+         minimal effort.
+Insider: A threat agent who has authorized access to an organization and either intentionally or unintentially carries out an attack
+Competitor: A threat agent who uses their technical knowledge to bypass security, exploit a vulnerability, and gain access to 
+         protected information. 
+Hacker: Any threat agent who uses their technical knowledge to bypass security, exploit a vulnerability, and gain access to protected
+         information.
+Cybercriminal: A subcategory of hacker threat agents that are willing to make more risks and use more extreme tactics for financial 
+         gain.
+Nation state: A threat agent that is sovereign state who may wage an all-out war on a target and have significant resources and money at
+         their disposal.
+Internal threat: A threat from authorized individuals or group that attack a network from the outside and seek to gain unauthorized 
+         access to data.       
+External threat: A threat from individuals or groups that attack a network from the outside and seeks to gain unauthorized access
+         to data. 
+Persistant threat: A threat that seeks to gain access to a network and remain there undected.
+Non-persistant threat: A threat where the only concern is getting into a system and stealing information and is usually a one-time 
+         event where the attacker is not concerned if their presence is noticed.
+Open-source intelligence: Information that is readily available to the public and doesn't require any type of malicious activity to obtain.               
